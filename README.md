@@ -5,7 +5,7 @@
 
 Тестовое задание для QA-cтажёра
 
-Запуск
+# Запуск
 
 ```
 SLACK_SIGNING_SECRET="****" SLACK_BOT_TOKEN="****" node script.js
